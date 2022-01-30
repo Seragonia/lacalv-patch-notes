@@ -1,2 +1,3 @@
-# lacalv-patch-notes
-Patch notes pour LaCalv
+# Stockage des derniers patch notes pour le jeu LaCalv
+
+
